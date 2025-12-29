@@ -5,4 +5,3 @@ service nginx start
 systemctl enable nginx
 echo "<h1>WEB-SERVER</h1>" >> /usr/share/nginx/html/index.html
 echo
-#new line added
